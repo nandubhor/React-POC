@@ -1,0 +1,14 @@
+.login {
+    margin-top: 50px;
+    width :50%;
+}
+
+.error-msg {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.login-title {
+    text-align: center;
+    color: #1E90FF;
+}
